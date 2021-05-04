@@ -1,2 +1,2 @@
 # bob-the-builder
-Reddit memes can become reality. Written and abandoned in Golang.
+Reddit memes can become reality. Written and abandoned in Golang. Inspired by @bernhardreisenberger.
